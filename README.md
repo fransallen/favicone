@@ -31,10 +31,15 @@ Return the JSON data with **?json** parameter:
 }
 ```
 
-# About
+## About
 
 Favicone is a super convenient API service that allows you to easily retrieve and serve favicons from any website. With its user-friendly URL structure, Favicone makes the process a piece of cake – just use something like `https://favicone.com/:domain`.
 
 The magic happens behind the scenes as Favicone cleverly searches for the favicon link within the website's HTML or directly from the favicon.ico file. It's all about efficiency and simplicity!
 
 You can use Favicone in your app or website to enhance the visual appeal of your app and ensure your users enjoy a seamless favicon experience.
+
+## Similar Services
+
+- [DuckDuckGo Favicons API](https://duckduckgo.com/duckduckgo-help-pages/privacy/favicons/)
+- [Google Favicons API](https://www.google.com/search?q=Google+Favicons+API)
