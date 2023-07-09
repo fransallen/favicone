@@ -47,6 +47,18 @@ The following projects are already using Favicone:
 
 If you are using Favicone for your application or website, we invite you to contribute by sending a pull request to add your app/website to the list of users. We would love to showcase how Favicone is being utilized in different projects!
 
+## The Problems
+
+Obtaining a favicon from a website can be a challenging task due to the inconsistent locations where the favicon.ico file or favicon references may be found. The following are common sources where a favicon can be located:
+
+1. favicon.ico file: Traditionally, websites have placed the favicon.ico file at the root directory of the website. However, this is not always the case, and the favicon.ico file may be located in different directories or have a different file name.
+
+2. HTML code: Websites often define a favicon link in their HTML code using the `<link>` tag with the `rel="icon"` attribute. The `href` attribute specifies the URL of the favicon. However, the favicon link can have different variations, such as `rel="shortcut icon"`, `rel="apple-touch-icon"`, or other custom variations.
+
+3. Web manifest file: Modern websites using progressive web app (PWA) technologies may define a web manifest file (manifest.json) that includes information about the website's icons, including the favicon. The web manifest file can specify different sizes and formats for the icons.
+
+These variations in favicon locations and references make it challenging to reliably fetch the favicon for a given website. Favicone aims to address these challenges by searching for the favicon in multiple sources, including the favicon.ico file, HTML code, and web manifest files.
+
 ## Similar Services
 
 - [DuckDuckGo Favicons API](https://duckduckgo.com/duckduckgo-help-pages/privacy/favicons/)
