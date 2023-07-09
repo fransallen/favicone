@@ -39,6 +39,14 @@ The magic happens behind the scenes as Favicone cleverly searches for the favico
 
 You can use Favicone in your app or website to enhance the visual appeal of your app and ensure your users enjoy a seamless favicon experience.
 
+## Used by
+
+The following projects are already using Favicone:
+
+- [Indiwtf](https://indiwtf.upset.dev/monitoring)
+
+If you are using Favicone for your application or website, we invite you to contribute by sending a pull request to add your app/website to the list of users. We would love to showcase how Favicone is being utilized in different projects!
+
 ## Similar Services
 
 - [DuckDuckGo Favicons API](https://duckduckgo.com/duckduckgo-help-pages/privacy/favicons/)
