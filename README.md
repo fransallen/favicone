@@ -26,7 +26,7 @@ Return the JSON data with **?json** parameter:
 ```json
 {
   "hasIcon": true,
-  "icon": "https://www.google.com/favicon.ico",
+  "icon": "https://icons.favicone.com/i/www.google.com/favicon.ico",
   "type": "ico"
 }
 ```
