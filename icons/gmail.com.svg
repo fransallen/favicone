@@ -1,0 +1,12 @@
+<svg width="107.93" height="107.93" version="1.1" viewBox="52 42 107.93 107.93" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(143.17 13.504)">
+  <rect x="-91.17" y="28.496" width="107.93" height="107.93" fill="none" opacity=".95"/>
+  <g transform="matrix(1.2127 0 0 1.2127 -153.63 -8.482)">
+   <path d="m58 108h14v-34l-20-15v43c0 3.32 2.69 6 6 6" fill="#4285f4"/>
+   <path d="m120 108h14c3.32 0 6-2.69 6-6v-43l-20 15" fill="#34a853"/>
+   <path d="m120 48v26l20-15v-8c0-7.42-8.47-11.65-14.4-7.2" fill="#fbbc04"/>
+   <path d="m72 74v-26l24 18 24-18v26l-24 18" fill="#ea4335"/>
+   <path d="m52 51v8l20 15v-26l-5.6-4.2c-5.94-4.45-14.4-0.22-14.4 7.2" fill="#c5221f"/>
+  </g>
+ </g>
+</svg>
